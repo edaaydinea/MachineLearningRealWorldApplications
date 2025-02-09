@@ -4,9 +4,6 @@ Model Training Module
 
 This module contains the ModelTraining class which handles the training,
 evaluation, and tuning of the machine learning model.
-
-Created on Sat Aug 18 19:15:48 2018
-@author: Eda AYDIN
 """
 
 #### Importing Libraries ####
