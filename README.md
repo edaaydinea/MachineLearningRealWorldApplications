@@ -37,6 +37,11 @@ Notebook:
 
 ## 4. Minimizing Churn Rate Through Analysis of Financial Habits
 
+This project aims to reduce customer churn by analyzing financial habits and predicting the likelihood of customers leaving a subscription service. The workflow involves data loading, preprocessing, feature engineering, and model training. Model performance is evaluated using metrics such as accuracy, precision, recall, and F1-score.
+
+Notebook:
+[DataPreprocessing.ipynb](./ChurnAnalysis/notebooks/01_data_preprocessing.ipynb)
+[Modeling.ipynb](./ChurnAnalysis/notebooks/02_modeling.ipynb)
 
 
 ## 5. Predicting the Likelihood of E-Signing a Loan Based on Financial History
