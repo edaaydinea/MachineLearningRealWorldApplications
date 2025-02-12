@@ -18,6 +18,7 @@ This repository covers practical machine learning scenarios, each illustrating a
 A dataset from the `sklearn` library is used to predict whether breast cancer is benign or malignant. The workflow involves data loading, preprocessing, and splitting into training and testing sets. Model performance is evaluated using accuracy, confusion matrices, and classification reports.
 
 Notebook:
+
 - [BreastCancerClassification.ipynb](./BreastCancerClassification/BreastCancerClassification.ipynb)
 
 ## 2. Fashion Class Classification
@@ -25,6 +26,7 @@ Notebook:
 The Fashion MNIST dataset is used to classify images of clothing items into 10 classes. The workflow involves data loading, preprocessing, and splitting into training and testing sets. Model performance is evaluated using accuracy, confusion matrices, and classification reports.
 
 Notebook:
+
 - [FashionClassClassification.ipynb](./FashionClassClassification/FashionClassClassification.ipynb)
 
 ## 3. Directing Customers to Subscription Through App Behavior Analysis
@@ -32,6 +34,7 @@ Notebook:
 This project analyzes user behavior within an app to predict the likelihood of converting free users to paid subscribers. The workflow involves data collection, preprocessing, feature engineering, and model training. Model performance is evaluated using metrics such as accuracy, precision, recall, and F1-score.
 
 Notebook:
+
 - [DataPreprocessing.ipynb](./FinTechCaseStudies/notebooks/01_data_preprocessing.ipynb)
 - [Modeling.ipynb](./FinTechCaseStudies/notebooks/02_model_training.ipynb)
 
@@ -40,14 +43,16 @@ Notebook:
 This project aims to reduce customer churn by analyzing financial habits and predicting the likelihood of customers leaving a subscription service. The workflow involves data loading, preprocessing, feature engineering, and model training. Model performance is evaluated using metrics such as accuracy, precision, recall, and F1-score.
 
 Notebook:
-[DataPreprocessing.ipynb](./ChurnAnalysis/notebooks/01_data_preprocessing.ipynb)
-- [Modeling.ipynb](./ChurnAnalysis/notebooks/02_modeling.ipynb)
 
+- [DataPreprocessing.ipynb](./ChurnAnalysis/notebooks/01_data_preprocessing.ipynb)
+- [Modeling.ipynb](./ChurnAnalysis/notebooks/02_modeling.ipynb)
 
 ## 5. Predicting the Likelihood of E-Signing a Loan Based on Financial History
 
+This project predicts the likelihood of a customer e-signing a loan based on their financial history. The workflow involves data loading, preprocessing, feature engineering, and model training. Model performance is evaluated using metrics such as accuracy, precision, recall, and F1-score.
 
+Notebook:
+
+- [Pipeline.ipynb](./FinancialAnalysis/notebooks/pipeline.ipynb)
 
 ## 6. Credit Card Fraud Detection
-
-
