@@ -1,1 +1,15 @@
 **/__pycache__/*.pyc
+CreditCardFraudDetection/Jupyter notebooks/Decision trees.ipynb
+CreditCardFraudDetection/Jupyter notebooks/Deep Learning + Sampling.ipynb
+CreditCardFraudDetection/Jupyter notebooks/Deep Learning.ipynb
+CreditCardFraudDetection/Jupyter notebooks/Random Forest.ipynb
+BreastCancerClassification/Breast Cancer.ipynb
+ChurnAnalysis/Project 2 - EDA.py
+ChurnAnalysis/Project 2 - Model.py
+FashionClassClassification/Fashion MNIST.ipynb
+FashionClassClassification/fashion-mnist_test.csv
+FashionClassClassification/fashion-mnist_train.csv
+FinTechCaseStudies/Project1 - EDA.py
+FinTechCaseStudies/Project1 - Model.py
+CreditCardFraudDetection/data/processed_creditcard.csv
+CreditCardFraudDetection/data/creditcard.csv
