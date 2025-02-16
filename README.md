@@ -56,3 +56,9 @@ Notebook:
 - [Pipeline.ipynb](./FinancialAnalysis/notebooks/pipeline.ipynb)
 
 ## 6. Credit Card Fraud Detection
+
+This project aims to detect fraudulent credit card transactions using various machine learning models. The dataset used is the [Credit Card Fraud Detection dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) from Kaggle. The workflow involves data loading, preprocessing, feature engineering, and model training. Model performance is evaluated using metrics such as accuracy, precision, recall, and F1-score. The model is performed using a Random Forest Classifier, Decision Tree, XGBoost, LightGBM, and deep learning models. As a result, the deep learning model with SMOTE sampling technique has the best performance with an F1-score of 1.0. 
+
+Notebook:
+
+- [Pipeline.ipynb](./CreditCardFraudDetection/notebooks/pipeline.ipynb)
